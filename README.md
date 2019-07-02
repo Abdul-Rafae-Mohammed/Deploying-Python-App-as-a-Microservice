@@ -1,5 +1,5 @@
 
-# Real Time Twitter Sentiment Analysis using Python and Oracle ATP Deployed using Docker
+# Real Time Twitter Sentiment Analysis using Python and Oracle Autonomous Database Deployed using Docker
 
 Last Updated:<br>February 01, 2019
 </td>
